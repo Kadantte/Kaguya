@@ -1,11 +1,11 @@
 <div style="text-align: center;">
 <h1>Kaguya</h1>
 
-[![Kaguya Discord server](https://discordapp.com/api/guilds/906042713688928257/widget.png?style=banner2)](https://discord.gg/382BEFfER6)
+[![Kaguya Discord server](https://discordapp.com/api/guilds/906042713688928257/widget.png?style=banner2)](htts://discord.gg/382BEFfER6)
 
 ### Kaguya is a multi-language website that provides you anime, manga and related resources.
 
-### CA: DxVT75GAY9Ex8hwnxwEDVY4WXTywVUNXjELDmhF5pump
+###### CA: DxVT75GAY9Ex8hwnxwEDVY4WXTywVUNXjELDmhF5pump
 
 </div>
 
