@@ -5,6 +5,8 @@
 
 ### Kaguya is a multi-language website that provides you anime, manga and related resources.
 
+### CA: DxVT75GAY9Ex8hwnxwEDVY4WXTywVUNXjELDmhF5pump
+
 </div>
 
 ## Table of contents
